@@ -1,7 +1,7 @@
 # Automated Medical Appeal Follow-Ups with Python
 
 Automating Medical Appeal Follow-Ups with Python and AI
-December 2024
+
 
 Managing medical appeals is a critical but time-intensive process. This blog post introduces a streamlined solution using Python, OpenAI GPT, and Bland.ai APIs for automated follow-ups.
 
