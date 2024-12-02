@@ -16,4 +16,4 @@ This repository demonstrates a Python-based solution to automate follow-ups on m
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/heebaaltaf/Virtual-calling-Assistant.git
